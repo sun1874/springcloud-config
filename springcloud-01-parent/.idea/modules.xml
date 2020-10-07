@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-01-parent.iml" filepath="$PROJECT_DIR$/.idea/springcloud-01-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api-commons/springcloud-api-commons.iml" filepath="$PROJECT_DIR$/springcloud-api-commons/springcloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-center3344/springcloud-config-center3344.iml" filepath="$PROJECT_DIR$/springcloud-config-center3344/springcloud-config-center3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client3355/springcloud-config-client3355.iml" filepath="$PROJECT_DIR$/springcloud-config-client3355/springcloud-config-client3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client3366/springcloud-config-client3366.iml" filepath="$PROJECT_DIR$/springcloud-config-client3366/springcloud-config-client3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-feign-hystrix-order80/springcloud-consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/springcloud-consumer-feign-hystrix-order80/springcloud-consumer-feign-hystrix-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-feign-order80/springcloud-consumer-feign-order80.iml" filepath="$PROJECT_DIR$/springcloud-consumer-feign-order80/springcloud-consumer-feign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard9001/springcloud-consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/springcloud-consumer-hystrix-dashboard9001/springcloud-consumer-hystrix-dashboard9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-order80/springcloud-consumer-order80.iml" filepath="$PROJECT_DIR$/springcloud-consumer-order80/springcloud-consumer-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server7001/springcloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server7002/springcloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server7002/springcloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-gateway-gateway9527/springcloud-gateway-gateway9527.iml" filepath="$PROJECT_DIR$/springcloud-gateway-gateway9527/springcloud-gateway-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-hystrix-payment8001/springcloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/springcloud-provider-hystrix-payment8001/springcloud-provider-hystrix-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-payment8001/springcloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/springcloud-provider-payment8001/springcloud-provider-payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-payment8002/springcloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/springcloud-provider-payment8002/springcloud-provider-payment8002.iml" />
+    </modules>
+  </component>
+</project>
